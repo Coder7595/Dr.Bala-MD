@@ -9,17 +9,16 @@ rational drug use.
 **Background**
 - MD Pharmacology, Maulana Azad Medical College, New Delhi (2025)
 - MBBS, Government Sivagangai Medical College (2018)
-- Trained in WHO-UMC causality assessment, PvPI, GCP, and systematic reviews
+- Trained in PvPI, GCP, SRMA,Python and R
   (Johns Hopkins / AIIMS)
 
 **What I'm building**
-- AI-assisted tools for pharmacovigilance and causality assessment
+- AI-assisted tools for applied pharmacology
 - Reproducible workflows for systematic reviews and meta-analysis
 - Small, opinionated utilities for clinical-academic workflows
 
 **Currently learning**
 - LLM application development (prompting, RAG, evaluation)
-- Reactivating Python and R for clinical research pipelines
 
 **Reach me**
 - 📧 bala7595@gmail.com
