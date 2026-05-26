@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @Dr.Bala-MD
-- 👀 I’m a healthcare professional interested in data science
-- 🌱 I’m currently learning Python, R
-- 💞️ I’m looking to collaborate on projects related to healthcare
-- 📫 How to reach me linkedin/balakumr
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a medical professional
+### Hi, I'm Bala 👋
 
-<!---
-Coder7595/Coder7595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**MD, Clinical Pharmacologist** · Senior Resident at JIPMER Pondicherry
+
+I work at the intersection of clinical pharmacology and applied AI — specifically
+in pharmacovigilance, evidence synthesis, and decision-support tools for
+rational drug use.
+
+**Background**
+- MD Pharmacology, Maulana Azad Medical College, New Delhi (2025)
+- MBBS, Government Sivagangai Medical College (2018)
+- Trained in WHO-UMC causality assessment, PvPI, GCP, and systematic reviews
+  (Johns Hopkins / AIIMS)
+
+**What I'm building**
+- AI-assisted tools for pharmacovigilance and causality assessment
+- Reproducible workflows for systematic reviews and meta-analysis
+- Small, opinionated utilities for clinical-academic workflows
+
+**Currently learning**
+- LLM application development (prompting, RAG, evaluation)
+- Reactivating Python and R for clinical research pipelines
+
+**Reach me**
+- 📧 bala7595@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/balakumr)
+- 🆔 [ORCID 0009-0003-2358-2357](https://orcid.org/0009-0003-2358-2357)
+
+---
+
+> *Clinician first. Builder by intent. Trying to make pharmacovigilance a
+> little less manual, one tool at a time.*
